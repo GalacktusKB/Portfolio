@@ -5,7 +5,7 @@ function EmailBtn() {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText("abhinaba2048@gmail.com");
+    navigator.clipboard.writeText("kuntalbarik.rajkhamar@gmail.com");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000); // hide after 2s
   };
