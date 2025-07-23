@@ -24,7 +24,7 @@ const AboutMain = () => {
             <span className="text-blue-400 font-medium"> fully responsive developer portfolio</span>,
             <span className="text-blue-400 font-medium"> CartXpress</span> - a full-featured e-commerce application, and
             <span className="text-blue-400 font-medium"> ShopSphere</span> – a modern e-commerce web platform.
-            While my current focus is on <span className="text-blue-400">development</span>, I’m actively learning
+            While my current focus is on <span className="text-blue-400">frontend development</span>, I’m actively learning
             <span className="text-blue-400"> backend technologies</span> to become a
             <span className="text-blue-400 font-semibold"> Full Stack Developer</span>.
             I'm seeking opportunities to grow and contribute to impactful tech projects.
