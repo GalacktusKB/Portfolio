@@ -105,7 +105,7 @@ const AboutMain = () => {
         <div className="relative flex justify-center">
           <img
             src={kuntalImg}
-            alt="Abhinaba Mukherjee"
+            alt="Kuntal Barik"
             className="rounded-full aspect-square max-h-60   sm:max-h-90 sm:max-w-90 object-cover shadow-lg "
           />
         </div>
