@@ -21,7 +21,7 @@ const About = () => {
           </NavLink>
 
           <p className="my-4 text-gray-400">
-            A passionate <span className="text-blue-400 font-semibold">Frontend Developer</span> with strong skills in
+            A passionate <span className="text-blue-400 font-semibold">Developer</span> with strong skills in
             <span className="text-blue-400"> HTML</span>, <span className="text-blue-400">CSS</span>,
             <span className="text-blue-400"> JavaScript</span>, and frameworks like
             <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400">Tailwind CSS</span>.
