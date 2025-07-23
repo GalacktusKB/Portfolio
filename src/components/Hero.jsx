@@ -31,7 +31,7 @@ const Hero = () => {
             🚀 Learning React.js & Tailwind CSS
           </p>
           <p className="text-gray-400  md:text-xl flex justify-start items-center gap-2">
-            💼 Actively seeking Frontend or Software Developer roles
+            💼 Actively seeking Software Developer roles
           </p>
         </div>
 
