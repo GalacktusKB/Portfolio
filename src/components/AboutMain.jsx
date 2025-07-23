@@ -14,23 +14,23 @@ const AboutMain = () => {
           <span>⚡</span> About Me
         </h1>
         <p className="my-4 text-gray-400">
-            A passionate <span className="text-blue-400 font-semibold">Frontend Developer</span> with strong skills in
+            A passionate <span className="text-blue-400 font-semibold">Developer</span> with strong skills in
             <span className="text-blue-400"> HTML</span>, <span className="text-blue-400">CSS</span>,
             <span className="text-blue-400"> JavaScript</span>, and frameworks like
-            <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400">Tailwind CSS</span>.
+            <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400"></span>.
             I also have a solid programming foundation in
-            <span className="text-blue-400"> C</span>, <span className="text-blue-400">C++</span>, and
+            <span className="text-blue-400"> C</span>, <span className="text-blue-400">Python</span>, and
             <span className="text-blue-400"> Java</span>. I’ve built several projects including a
             <span className="text-blue-400 font-medium"> fully responsive developer portfolio</span>,
-            <span className="text-blue-400 font-medium"> Hold My CV</span> – a resume builder, and
-            <span className="text-blue-400 font-medium"> Dev Detective</span> – a GitHub user data scraper for quick profile overviews.
-            While my current focus is on <span className="text-blue-400">frontend development</span>, I’m actively learning
+            <span className="text-blue-400 font-medium"> CartXpress</span> - a full-featured e-commerce application, and
+            <span className="text-blue-400 font-medium"> ShopSphere</span> – a modern e-commerce web platform.
+            While my current focus is on <span className="text-blue-400">development</span>, I’m actively learning
             <span className="text-blue-400"> backend technologies</span> to become a
             <span className="text-blue-400 font-semibold"> Full Stack Developer</span>.
             I'm seeking opportunities to grow and contribute to impactful tech projects.
           </p>
           <p className="text-gray-400">
-            Outside of coding, I love exploring AI tools, macro photography, meditation, and spending time teaching and learning new things!
+            Outside of coding, I love exploring AI tools, mobile photography, listening different types of musics, and spending time teaching and learning new things!
           </p>
 
         {/* Skills Section */}
