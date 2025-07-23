@@ -45,14 +45,14 @@ const Hero = () => {
           </a>
           <a
             target='_blank'
-            href="https://github.com/Abhinaba1289"
+            href="https://github.com/galacktuskb"
             className="flex items-center gap-2 bg-gray-900 px-4 py-2 rounded-lg hover:bg-gray-700 transition"
           >
             <FaGithub className='text-blue-400' /> Github
           </a>
           <a
             target='_blank'
-            href="https://www.linkedin.com/in/abhinaba-mukherjee-13589624a"
+            href="https://www.linkedin.com/in/kuntal-barik-26a977237/"
             className="flex items-center gap-2 bg-gray-900 px-4 py-2 rounded-lg hover:bg-gray-700 transition"
           >
             <FaLinkedin className='text-blue-400' /> LinkedIn
@@ -68,7 +68,7 @@ const Hero = () => {
               <span className="text-purple-400">const</span> <span className="text-blue-400">coder</span> <span className="text-gray-400">=</span> <span className="text-yellow-400">{"{"}</span>{'\n'}
               <span className="text-gray-400 ml-4">name:</span> <span className="text-green-400">'Kuntal Barik'</span>,{'\n'}
               <span className="text-gray-400 ml-4">skills:</span> <span className="text-yellow-400">[</span><span className="text-green-400">'React.Js'</span>, <span className="text-green-400">'NodeJS'</span>, <span className="text-green-400">'Redux'</span>, <span className="text-green-400">'Express'</span>, <span className="text-green-400">'NestJS'</span>,{'\n'}
-              <span className="text-green-400 ml-8">'MySql'</span>, <span className="text-green-400">'MongoDB'</span>, <span className="text-green-400">'Docker'</span>, <span className="text-green-400">'AMS'</span><span className="text-yellow-400">]</span>,{'\n'}
+              <span className="text-green-400 ml-8">'MySql'</span>, <span className="text-green-400">'MongoDB'</span>, <span className="text-green-400">'Docker'</span>, <span className="text-green-400">'AWS'</span><span className="text-yellow-400">]</span>,{'\n'}
               <span className="text-gray-400 ml-4">hardWorker:</span> <span className="text-blue-400">true</span>,{'\n'}
               <span className="text-gray-400 ml-4">quickLearner:</span> <span className="text-blue-400">true</span>,{'\n'}
               <span className="text-gray-400 ml-4">problemSolver:</span> <span className="text-blue-400">true</span>,{'\n'}
