@@ -17,7 +17,7 @@ const Contact = () => {
 
       <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
         <a
-          href="https://www.linkedin.com/in/abhinaba-mukherjee-13589624a"
+          href="https://www.linkedin.com/in/kuntal-barik-26a977237/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-gray-900 px-4 py-2 rounded-lg hover:bg-gray-700 transition cursor-pointer"
@@ -28,7 +28,7 @@ const Contact = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=abhinaba2048@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=kuntalbarik.rajkhamar@gmail.com"
           className="flex items-center gap-2 bg-gray-900 px-6 py-3 rounded-md hover:bg-gray-700 transition"
         >
           <Mail className="w-5 h-5 text-blue-400" /> Email
