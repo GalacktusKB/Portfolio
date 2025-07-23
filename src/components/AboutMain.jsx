@@ -78,7 +78,7 @@ const AboutMain = () => {
             <h3 className="text-xl font-semibold mb-4">I Love Solving Problems on</h3>
             <div className="flex gap-6">
               <a 
-                href="https://www.geeksforgeeks.org/user/abhinaba2048/" 
+                href="https://www.geeksforgeeks.org/user/kuntalbarikrajkhamar/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex items-center gap-2 px-4 py-2 rounded-xl border-2 border-gray-600 hover:bg-gray-600 transition text-white"
@@ -87,7 +87,7 @@ const AboutMain = () => {
                 GeeksforGeeks
               </a>
               <a 
-                href="https://leetcode.com/u/abhinaba1289/" 
+                href="https://leetcode.com/u/GalacktusKB/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className=" flex items-center gap-2 px-4 py-2 rounded-xl border-2  border-gray-600 hover:bg-gray-600 transition text-white"
