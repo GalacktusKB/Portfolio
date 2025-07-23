@@ -26,7 +26,7 @@ const About = () => {
             <span className="text-blue-400"> JavaScript</span>, and frameworks like
             <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400">Tailwind CSS</span>.
             I also have a solid programming foundation in
-            <span className="text-blue-400"> C</span>, <span className="text-blue-400">C++</span>, and
+            <span className="text-blue-400"> C</span>, <span className="text-blue-400">Pyhton</span>, and
             <span className="text-blue-400"> Java</span>. I’ve built several projects including a
             <span className="text-blue-400 font-medium"> fully responsive developer portfolio</span>,
             <span className="text-blue-400 font-medium"> Hold My CV</span> – a resume builder, and
