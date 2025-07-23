@@ -5,7 +5,7 @@ const ProjectsData = [
       'fully responsive developer portfolio showcasing skills, projects, and contact information, built with React and Tailwind CSS.',
     tech: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'], // Adjust if you used different stack
     image: './portfolio.png',
-    link: 'https://github.com/GalacktusKB/CartXpress',
+    link: 'https://github.com/GalacktusKB/vite-app',
     live: '', // Add live link if available
   },
   {
