@@ -19,8 +19,8 @@ const AboutMain = () => {
             <span className="text-blue-400"> JavaScript</span>, and frameworks like
             <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400">Tailwind CSS</span>.
             I also have a solid programming foundation in
-            <span className="text-blue-400"> C</span>, <span className="text-blue-400">Python</span>, and
-            <span className="text-blue-400"> Java</span>. I’ve built several projects including a
+            <span className="text-blue-400"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"> C</a></span>, <span className="text-blue-400"><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a></span>, and
+            <span className="text-blue-400"><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"> Java</a></span>. I’ve built several projects including a
             <span className="text-blue-400 font-medium"> fully responsive developer portfolio</span>,
             <span className="text-blue-400 font-medium"> CartXpress</span> - a full-featured e-commerce application, and
             <span className="text-blue-400 font-medium"> ShopSphere</span> – a modern e-commerce web platform.
