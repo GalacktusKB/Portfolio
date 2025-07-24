@@ -67,8 +67,8 @@ const Hero = () => {
             <code>
               <span className="text-purple-400">const</span> <span className="text-blue-400">coder</span> <span className="text-gray-400">=</span> <span className="text-yellow-400">{"{"}</span>{'\n'}
               <span className="text-gray-400 ml-4">name:</span> <span className="text-green-400">'Kuntal Barik'</span>,{'\n'}
-              <span className="text-gray-400 ml-4">skills:</span> <span className="text-yellow-400">[</span><span className="text-green-400">'React.Js'</span>, <span className="text-green-400">'NodeJS'</span>, <span className="text-green-400">'Redux'</span>, <span className="text-green-400">'Express'</span>, <span className="text-green-400">'NestJS'</span>,{'\n'}
-              <span className="text-green-400 ml-8">'MySql'</span>, <span className="text-green-400">'MongoDB'</span>, <span className="text-green-400">'Docker'</span>, <span className="text-green-400">'AWS'</span><span className="text-yellow-400">]</span>,{'\n'}
+              <span className="text-gray-400 ml-4">skills:</span> <span className="text-yellow-400">[</span><span className="text-green-400">'React.Js'</span>, <span className="text-green-400">'NodeJS'</span>, <span className="text-green-400">'NestJS'</span>,{'\n'}
+              <span className="text-green-400 ml-8">'MySql'</span>, <span className="text-green-400">'Docker'</span>, <span className="text-yellow-400">]</span>,{'\n'}
               <span className="text-gray-400 ml-4">hardWorker:</span> <span className="text-blue-400">true</span>,{'\n'}
               <span className="text-gray-400 ml-4">quickLearner:</span> <span className="text-blue-400">true</span>,{'\n'}
               <span className="text-gray-400 ml-4">problemSolver:</span> <span className="text-blue-400">true</span>,{'\n'}
