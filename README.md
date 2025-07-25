@@ -2,7 +2,7 @@
 # Portfolio
 This is a fully responsive and visually engaging personal portfolio web application built with React.js, styled using Tailwind CSS for utility-first, adaptive design, and navigated through React Router DOM for seamless client-side routing. The site includes animated transitions, interactive UI components, and a clean, modular architecture to highlight my technical skills, development projects, and contact information. Designed with a focus on performance and user experience, it adapts flawlessly across devices and screen sizes, offering smooth navigation and professional presentation.
 
-Live - [my portfolio](https://kuntal-portfolio.vercel.app/)
+Live - [Portfolio Demo](https://kuntal-portfolio.vercel.app/)
 
 # Features
 ○ Smooth animations and transitions
