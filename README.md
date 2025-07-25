@@ -13,7 +13,7 @@ Live - [my portfolio](https://kuntal-portfolio.vercel.app/)
 ○ Contact form with social links and email
 ○ Modular, component-based structure for easy scalability
 
-# 🛠Built With
+# Built With
 ‣ React.js
 ‣ Tailwind CSS
 ‣ React Router DOM
