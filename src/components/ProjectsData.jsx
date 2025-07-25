@@ -35,6 +35,14 @@ const ProjectsData = [
     link: 'https://github.com/GalacktusKB/SENSE',
     live: '',
   },
+  {
+    name: 'Data analysis on most popular programming languages from 2004 to 2022',
+    description:
+      'We begin with the age-old and divisive question "Which is the best programming language?". But with a willing-ness to keep the same number of friends, when we started out with this project!',
+    tech: ['Jupyter Notebook', 'TeX'], // Adjust if you used different stack
+    image: './Data.png',
+    link: 'https://github.com/GalacktusKB/smalldata'
+  }
 ];
 
 export default ProjectsData;
