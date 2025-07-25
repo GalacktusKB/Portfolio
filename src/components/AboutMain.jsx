@@ -11,7 +11,7 @@ const AboutMain = () => {
         {/* Text Section */}
       <div className="w-screen lg:w-160 px-5 lg:px-4">
         <h1 className="text-2xl lg:text-4xl font-bold mb-4 flex items-center gap-2 ">
-          <span>⚡</span> About Me
+          <span></span> About Me
         </h1>
         <p className="my-4 text-gray-400">
             A passionate <span className="text-blue-400 font-semibold">Developer</span> with strong skills in

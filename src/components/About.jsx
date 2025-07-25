@@ -10,7 +10,7 @@ const About = () => {
         {/* Text Section */}
         <div className="w-screen lg:w-160 px-5 lg:px-0">
           <h2 className="text-2xl font-bold flex items-center gap-2">
-            <span>⚡</span> About Me
+            <span></span> About Me
           </h2>
           <NavLink
             to="/about"

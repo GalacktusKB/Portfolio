@@ -28,10 +28,10 @@ const Hero = () => {
 
         <div className="mt-6 md:text-xl space-y-2">
           <p className="text-gray-400 flex justify-start items-center gap-2">
-            🚀 Learning React.js & Tailwind CSS
+             Learning React.js & Tailwind CSS
           </p>
           <p className="text-gray-400  md:text-xl flex justify-start items-center gap-2">
-            💼 Actively seeking Software Developer roles
+             Actively seeking Software Developer roles
           </p>
         </div>
 
