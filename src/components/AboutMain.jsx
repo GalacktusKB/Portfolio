@@ -15,9 +15,9 @@ const AboutMain = () => {
         </h1>
         <p className="my-4 text-gray-400">
             A passionate <span className="text-blue-400 font-semibold">Developer</span> with strong skills in
-            <span className="text-blue-400"> HTML</span>, <span className="text-blue-400">CSS</span>,
-            <span className="text-blue-400"> JavaScript</span>, and frameworks like
-            <span className="text-blue-400"> ReactJS</span> and <span className="text-blue-400">Tailwind CSS</span>.
+            <span className="text-blue-400"><a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"> HTML</a></span>, <span className="text-blue-400"><a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer"> CSS</a></span>,
+            <span className="text-blue-400"><a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript</a></span>, and frameworks like
+            <span className="text-blue-400"><a href="https://react.dev/" target="_blank" rel="noopener noreferrer"> ReactJS</a></span> and <span className="text-blue-400"><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"> Tailwind CSS</a></span>.
             I also have a solid programming foundation in
             <span className="text-blue-400"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"> C</a></span>, <span className="text-blue-400"><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a></span>, and
             <span className="text-blue-400"><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"> Java</a></span>. I’ve built several projects including a
