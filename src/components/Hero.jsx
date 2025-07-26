@@ -19,7 +19,7 @@ const Hero = () => {
         <div className="mb-4">
           <p className="text-blue-400 text-2xl font-medium pt-10 md:pt-5">Hey there!, I'm-</p>
           <h1 className="text-5xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold text-white mt-2">
-            Kuntak Barik<span className="text-white">.</span>
+            Kuntal Barik<span className="text-white">.</span>
           </h1>
         </div>
         <p className="text-lg md:text-xl text-gray-400 font-semibold mt-4">
