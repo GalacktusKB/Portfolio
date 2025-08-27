@@ -1,5 +1,14 @@
 const ProjectsData = [
   {
+    name: 'West Bengal Tourism',
+    description:
+      'West Bengal Tourism is a web based app that provides a district-wise tourism guide for every districts of West Bengal. It features fast performance, responsive design, and modular architecture, making it easy to integrate maps, cultural highlights, and dynamic content for travelers.',
+    tech: ['HTML', 'CSS', 'JavaScript', 'React'], // Adjust if you used different stack
+    image: './WBT_Interface.png',
+    link: 'https://github.com/GalacktusKB/West-Bengal-Tourism',
+    live: '', // Add live link if available
+  },
+  {
     name: 'Developer Portfolio',
     description:
       'fully responsive developer portfolio showcasing skills, projects, and contact information, built with React and Tailwind CSS.',
